@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm rickylee2100 👋
 
-<!--
-**rickylee2100/rickylee2100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 这里写一句话介绍自己。
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 职业方向：<填写你的职业或行业>
+- 所在城市：<填写>
+- 当前关注：<填写>
+
+## 我关注的方向
+
+- 礼品与文创选品
+- 供应商管理与比价
+- 质检标准与采购资料沉淀
+
+## 项目与资料
+
+- 项目一：<一句话说明>
+- 项目二：<一句话说明>
+
+## 联系方式
+
+- 邮箱：<填写你愿意公开的邮箱>
+- 其他：<填写你愿意公开的链接或平台>
